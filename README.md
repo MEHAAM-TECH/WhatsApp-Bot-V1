@@ -58,6 +58,8 @@ TO START, FORK THIS REPOSITORY TO YOUR OWN GITHUB ACCOUNT BY CLICKING THE BUTTON
 
 ### 🚀  2 DOWLOAD ZIP FOR PANEL
 
+GET THE LATEST MEHAAMTECH BOT ZIP FILE FOR PANEL BASED DEPLOYMENT
+
   <a href='https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/archive/refs/heads/main.zip' target="_blank">
     <img src='https://img.shields.io/badge/Dowload Zip For Panel-ED8B00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
@@ -69,16 +71,9 @@ TO START, FORK THIS REPOSITORY TO YOUR OWN GITHUB ACCOUNT BY CLICKING THE BUTTON
 </p>
 
 
-### 📡 3 PANEL DEPLOYMENT OPTIONS
-
-GET THE LATEST MEHAAMTECH BOT ZIP FILE FOR PANEL BASED DEPLOYMENT
-
- <a href='https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/archive/refs/heads/main.zip/' target="_blank">
-    <img src='https://img.shields.io/badge/VIEW_PANEL_CODES-CC00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
 
 
-  ### 🔐 4 STEP GET YOUR SESSION ID
+  ### 🔐 3 STEP GET YOUR SESSION ID
 
 AUTHENTICATE USING **ONE** OF THE METHODS BELOW TO GENERATE YOUR `SESSION ID`
 

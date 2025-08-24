@@ -63,7 +63,7 @@ GET THE LATEST MEHAAMTECH BOT ZIP FILE FOR PANEL BASED DEPLOYMENT
 
 <div align="center">
 <a href="https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/archive/refs/heads/main.zip" target="_blank">
-  <img src="https://img.shields.io/badge/github-FF0000?style=for-the-badge&logo=server&logoColor=black" alt="Dowload Zip For Panel"/>
+  <img src="https://img.shields.io/badge/Dowload Zip For Panel-FF0000?style=for-the-badge&logo=server&logoColor=black" alt="Dowload Zip For Panel"/>
 </a>
 </div>
 
@@ -95,7 +95,7 @@ AUTHENTICATE USING **ONE** OF THE METHODS BELOW TO GENERATE YOUR `SESSION ID`
 
 <div align="center">
 <a href="https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/tree/main" target="_blank">
-  <img src="https://img.shields.io/badge/github-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Deploy"/>
+  <img src="https://img.shields.io/badge/Deploy App-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Deploy App"/>
 </a>
 </div>
 
@@ -105,5 +105,7 @@ AUTHENTICATE USING **ONE** OF THE METHODS BELOW TO GENERATE YOUR `SESSION ID`
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+
 
 

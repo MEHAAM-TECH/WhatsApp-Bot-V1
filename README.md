@@ -40,11 +40,15 @@
 </p>
 
 
-### 🚀 FORK THE REPOSITORY
+### 🚀 1 FORK THE REPOSITORY
 
 TO START, FORK THIS REPOSITORY TO YOUR OWN GITHUB ACCOUNT BY CLICKING THE BUTTON BELOW
 
-<a href="https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/fork"><img src="https://img.shields.io/github/forks/MEHAAMTECH/WhatsApp-Bot-V1?style=for-the-badge&logo=github&color=4c1&label=Fork%MEHAAMTECH" alt="Fork MEHAAMTECH" /></a>
+<div align="center">
+  <a href="https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
 
 <!-- Glowing Header -->
 <p align="center">
@@ -52,7 +56,7 @@ TO START, FORK THIS REPOSITORY TO YOUR OWN GITHUB ACCOUNT BY CLICKING THE BUTTON
 </p>
 
 
-### 🚀 DOWLOAD ZIP FOR PANEL
+### 🚀  2 DOWLOAD ZIP FOR PANEL
 
   <a href='https://github.com/MEHAAM-TECH/WhatsApp-Bot-V1/archive/refs/heads/main.zip' target="_blank">
     <img src='https://img.shields.io/badge/Dowload Zip For Panel-ED8B00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
@@ -65,7 +69,7 @@ TO START, FORK THIS REPOSITORY TO YOUR OWN GITHUB ACCOUNT BY CLICKING THE BUTTON
 </p>
 
 
-### 📡 PANEL DEPLOYMENT OPTIONS
+### 📡 3 PANEL DEPLOYMENT OPTIONS
 
 GET THE LATEST MEHAAMTECH BOT ZIP FILE FOR PANEL BASED DEPLOYMENT
 
@@ -74,18 +78,20 @@ GET THE LATEST MEHAAMTECH BOT ZIP FILE FOR PANEL BASED DEPLOYMENT
   </a></br>
 
 
-  ### 🔐 STEP 2 GET YOUR SESSION ID
+  ### 🔐 4 STEP GET YOUR SESSION ID
 
 AUTHENTICATE USING **ONE** OF THE METHODS BELOW TO GENERATE YOUR `SESSION ID`
 
 
-  <a href='https://78e8f543-4fe7-48d6-8b12-3360a1f29429-00-280fvz3424nl0.sisko.replit.dev' target="_blank">
-    <img src='https://img.shields.io/badge/Get Pairing Code-0000FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
+  <div align="center">
+  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  </a>
+</div>
 
 
 
-### 🔐 🤖 DEPLOY ANYWHERE
+### 🤖 5 DEPLOY ANYWHERE
 
 
 <p align="center">
@@ -98,4 +104,5 @@ AUTHENTICATE USING **ONE** OF THE METHODS BELOW TO GENERATE YOUR `SESSION ID`
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
 

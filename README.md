@@ -80,7 +80,7 @@ AUTHENTICATE USING **ONE** OF THE METHODS BELOW TO GENERATE YOUR `SESSION ID`
 
   <div align="center">
   <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-MEHAAMTECH-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
 
